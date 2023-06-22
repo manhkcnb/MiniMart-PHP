@@ -1,0 +1,21 @@
+
+.form--login__title,.form--footer{
+    text-align: center;
+}
+
+.login{
+    width: 450px;
+    height: 450px;
+    margin: auto; 
+    border: 1px solid red;
+    background-color: #13dae5;
+}
+.form--container{
+    margin-left:20px ;
+}
+.input{
+    width: 300px;
+    height: 35px;
+    padding-top: 0px;
+
+}
